@@ -1,0 +1,5 @@
+Flow ID,Description,Test Steps,Flow Priority
+2,Verify successful navigation to Page Index2 HTML,"step 1: Navigate to Page index2 html
+step 2: Add visual checkpoint at Page index2 html",High
+1,Verify successful navigation to Home page,"step 1: Navigate to Page home
+step 2: Add visual checkpoint at Page home",High
